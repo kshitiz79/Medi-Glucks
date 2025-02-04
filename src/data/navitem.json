@@ -1,0 +1,155 @@
+{
+    "menu": [
+      {
+        "name": "Health Resource Center",
+        "subcategories": [
+          "All Diseases",
+          "All Medicines",
+          "Medicines by Therapeutic Class"
+        ]
+      },
+      {
+        "name": "Winter Care Essentials",
+        "subcategories": [
+          {
+            "name": "Skin & Hair Care",
+            "items": [
+              "Face & Body Cream",
+              "Shampoo",
+              "Hair Oil",
+              "Lip Balm"
+            ]
+          },
+          "Sexual Wellness",
+          "Chyawanprash",
+          "Cough & Cold",
+          "Herbal Tea & Honey",
+          {
+            "name": "Pain Relief",
+            "items": [
+              "Supports & Brace",
+              "Gels & Sprays",
+              "Hot Water Bottle",
+              "Electric Heating Pads"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vitamins & Nutrition",
+        "subcategories": [
+          {
+            "name": "Multivitamins",
+            "items": [
+              "Kids",
+              "Women",
+              "Sports",
+              "Vegetarian"
+            ]
+          },
+          {
+            "name": "Omega & Fish Oil",
+            "items": [
+              "Fish Oil",
+              "Cod Liver Oil",
+              "Flax Seed Oil"
+            ]
+          },
+          "Calcium",
+          {
+            "name": "Minerals",
+            "items": ["Iron"]
+          },
+          "Vitamin B",
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin A",
+          {
+            "name": "Global Supplements",
+            "items": ["Now Foods", "Solgar", "Nordic naturals"]
+          },
+          "Hair & Skin Supplements",
+          {
+            "name": "Specialty Supplements",
+            "items": ["Antioxidants", "Glucosamine"]
+          },
+          "Vitamin K",
+          "Gummies Vitamins"
+        ]
+      },
+      {
+        "name": "Nutritional Drinks",
+        "subcategories": [
+          "Green Tea & Herbal Tea",
+          "Adult Daily Nutrition",
+          "Kids Nutrition (2-15 Yrs)",
+          "Women Nutrition",
+          "Apple Cider Vinegar",
+          "Diabetes Nutrition",
+          "Specialized Nutrition",
+          "Green Coffee"
+        ]
+      },
+      {
+        "name": "Fitness Supplements",
+        "subcategories": [
+          "Whey Protein",
+          "Fat Burners",
+          "Protein Supplements",
+          "Workout Essentials",
+          "Mass Gainers",
+          {
+            "name": "Amino Acids",
+            "items": [
+              "Arginine",
+              "BCAA",
+              "Glutathione",
+              "Glutamine",
+              "Creatine",
+              "Carnitine"
+            ]
+          },
+          "Sports",
+          "Plant Protein"
+        ]
+      },
+      {
+        "name": "Pain Relief",
+        "subcategories": [
+          "Gel & Sprays",
+          "Oils For Pain Relief",
+          "Heating Aids & Belts",
+          "Pain Balm & Ointment",
+          "Pain Relief Tablets"
+        ]
+      },
+      {
+        "name": "Stomach Care",
+        "subcategories": [
+          "Constipation",
+          "Acidity",
+          "Pre and Probiotics",
+          "Indigestion",
+          "Diarrhoea",
+          "Bloating"
+        ]
+      },
+      {
+        "name": "Healthy Snacks",
+        "subcategories": [
+          "Granola & Protein Bars",
+          "Peanut Butter",
+          "Honey",
+          "Dry Fruits & Berries",
+          "Cookies",
+          "Oats",
+          "Muesli & Cereals",
+          "Edible Seeds & Nuts",
+          "Superfoods",
+          "Quinoa",
+          "Other Snacks"
+        ]
+      }
+    ]
+  }
+  
